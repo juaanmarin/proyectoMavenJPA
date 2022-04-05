@@ -9,10 +9,10 @@ para este proyecto es necesario tener conociminetos previos de:
 * Java
 * poo(_programacion orientada a obgetos_)
 * Mysql
-* padtrones de diseño como:
- * GUI(_graphical user interfaces_)
- * DAO(_data access obgect_)
- * MVC(_Model View Controller_)
+* patrones de diseño como:
+  * GUI(_graphical user interfaces_)
+  * DAO(_data access obgect_)
+  * MVC(_Model View Controller_)
 
 
 ### Instalación 🔧
@@ -24,19 +24,19 @@ para este proyecto es necesario tener conociminetos previos de:
 5. se deve instalar Mysql.
 * [Mysql](https://dev.mysql.com/downloads/mysql/) - gestor de base de datos
 7. configuarar el entorno de desarrollo integrado:
- * ```abrir entorno de desarrollo integrado Eclipse```
- * ```Ingresamos a Window/Preferences/Maven/ activa la opcion "Download repository index updates on startup" y se aplica los cambios```
+  * ```abrir entorno de desarrollo integrado Eclipse```
+  * ```Ingresamos a Window/Preferences/Maven/ activa la opcion "Download repository index updates on startup" y se aplica los cambios```
 
 
 ## Ejecucion del proyecto 📦
 
 1. se abre el proyecto en Eclipse
 2. se crea la BD:
-```src/main/java/script hay esta el codigo para generar la BD del proyecto en workbench(si previamente se instalo MySql deberiamos tener esta erraminta disponible)```
+  * ```src/main/java/script hay esta el codigo para generar la BD del proyecto en workbench(si previamente se instalo MySql deberiamos tener esta erraminta disponible)```
 3. se adapta el archibo de persistencia:
-```src/main/java/META-INF/persistence.xml  y se realiza el cambio de el pasword, y localhost para trabajar con nuestra BD previamente creada```
+  * ```src/main/java/META-INF/persistence.xml  y se realiza el cambio de el pasword, y localhost para trabajar con nuestra BD previamente creada```
 4. para ejecutar el proyecto accedemos a:
-```src/main/java/`com/marin/aplicacion/principal hay podremos iniciar el proyecto```
+  * ```src/main/java/`com/marin/aplicacion/principal hay podremos iniciar el proyecto```
 
 
 ## Construido con 🛠️
