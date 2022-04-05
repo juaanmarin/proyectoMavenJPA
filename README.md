@@ -17,12 +17,12 @@ para este proyecto es necesario tener conociminetos previos de:
 
 ## Instalación 🔧
 
-1. se deve instalar el JDK(_Java Development Kit_).
-* [JDK](https://www.oracle.com/java/technologies/downloads/) - Kit de desarrollo de Java.
-3. se deve instalar un IDE(_entorno de desarrollo integrado_) como Eclipse.
-* [Eclipse](https://www.eclipse.org/downloads/) -  entorno de desarrollo integrado.
-5. se deve instalar Mysql.
-* [Mysql](https://dev.mysql.com/downloads/mysql/) - gestor de base de datos
+1. se deve instalar el JDK(_Java Development Kit_):
+ * [JDK](https://www.oracle.com/java/technologies/downloads/) - Kit de desarrollo de Java.
+3. se deve instalar un IDE(_entorno de desarrollo integrado_) como Eclipse:
+ * [Eclipse](https://www.eclipse.org/downloads/) -  entorno de desarrollo integrado.
+5. se deve instalar Mysql:
+ * [Mysql](https://dev.mysql.com/downloads/mysql/) - gestor de base de datos
 7. configuarar el entorno de desarrollo integrado:
   * ```abrir entorno de desarrollo integrado Eclipse```
   * ```Ingresamos a Window/Preferences/Maven/ activa la opcion "Download repository index updates on startup" y se aplica los cambios```
