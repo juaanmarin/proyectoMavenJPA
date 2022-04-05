@@ -10,9 +10,9 @@ para este proyecto es necesario tener conociminetos previos de:
 * poo(_programacion orientada a obgetos_)
 * Mysql
 * padtrones de diseño como:
-* * GUI(_graphical user interfaces_)
-* * DAO(_data access obgect_)
-* * MVC(_Model View Controller_)
+ * GUI(_graphical user interfaces_)
+ * DAO(_data access obgect_)
+ * MVC(_Model View Controller_)
 
 
 ### Instalación 🔧
