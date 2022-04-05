@@ -1,6 +1,6 @@
 # proyectoMavenJPA
 
-este es un proyecto creado con JSE(_Java Platform, Standard Edition_) en el que se practica la coneccion a una base de datos MySql con jpa(_Java Persistence API_)
+este es un proyecto creado con JSE(_Java Platform, Standard Edition_) en el que se practica la conexion a una base de datos MySql con jpa(_Java Persistence API_)
 
 
 ## Pre-requisitos 📋
