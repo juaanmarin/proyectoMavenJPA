@@ -3,7 +3,7 @@
 este es un proyecto creado con JSE(_Java Platform, Standard Edition_) en el que se practica la coneccion a una base de datos MySql con jpa(_Java Persistence API_)
 
 
-### Pre-requisitos 📋
+## Pre-requisitos 📋
 
 para este proyecto es necesario tener conociminetos previos de:
 * Java
@@ -15,7 +15,7 @@ para este proyecto es necesario tener conociminetos previos de:
   * MVC(_Model View Controller_)
 
 
-### Instalación 🔧
+## Instalación 🔧
 
 1. se deve instalar el JDK(_Java Development Kit_).
 * [JDK](https://www.oracle.com/java/technologies/downloads/) - Kit de desarrollo de Java.
