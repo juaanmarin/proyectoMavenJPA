@@ -58,7 +58,3 @@ este proyecto se encuentra terminado actualmente, se espera que en un futuro se 
 
 * **Juan David Marin Velasquez** - *desarroyo, creacion de BD y pruebas* - [Juaanmarin](https://github.com/juaanmarin)
 
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
